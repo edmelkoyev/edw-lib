@@ -1,2 +1,2 @@
-# Proglib
+# edw-lib
 Hello, readme please
