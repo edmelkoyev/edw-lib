@@ -1,3 +1,4 @@
 # edw-lib
 Hello, readme please
-Add feature001
+Update feature001 doc
+Add feature002 doc
